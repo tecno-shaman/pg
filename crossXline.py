@@ -2,6 +2,7 @@ import pygame
 import random
 
 
+
 def draw(screen):
     screen.fill((0, 0, 0))
 
