@@ -1,3 +1,3 @@
 usefull links:
-https://www.artlebedev.ru/colors/ # safty color-pallete
+https://www.artlebedev.ru/colors/
 
